@@ -3,6 +3,7 @@
 /lib
 /lib-types
 /server
+/src-examples
 
 # Development
 node_modules
